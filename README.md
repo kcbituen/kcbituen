@@ -1,4 +1,11 @@
-## Hi there 👋
+## About Me !!
+- 🪷 Hi, I'm Kaitlin Bituen
+- 👾 CE student @SDSU from the Bay Area
+- ⚙️ I'm interested in embedded systems and working with hardware
+- 🌿 I'm always look for ways to improve my skills through practice, projects and learning new coding languages
+- 🛩️ I love to travel!
+
+
 
 <!--
 **kcbituen/kcbituen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
